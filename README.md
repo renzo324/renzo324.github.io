@@ -1,2 +1,8 @@
 # renzo324.github.io
-\for that skillshare class\
+
+
+Web Portfolio/Resume version 0.0.1
+-CSS stylings
+-Icons and images
+-Filler text
+-No javascript
