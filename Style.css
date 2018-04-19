@@ -237,6 +237,7 @@ input[type=submit]{
 	width: 50%;
 	text-align: left;
 	padding-bottom: 10%;
+	margin: 10% auto 15%;
 }
 #month{
 	width: 100%;
