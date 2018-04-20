@@ -1,8 +1,9 @@
 # renzo324.github.io
 
 
-Web Portfolio/Resume version 0.0.1
+Web Portfolio/Resume/landing page version 1.0.3
 -CSS stylings
 -Icons and images
 -Filler text
--No javascript
+-Dog pics
+
